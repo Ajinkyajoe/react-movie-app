@@ -1,7 +1,6 @@
 # React Movie App
 
-This is a simple ReactJs app displaying movie titles from and open api (https://www.omdbapi.com/)  
-The webpage is mobile responsive and you can also search a movie title.
+This is a simple ReactJs app displaying movie titles from and open api (https://www.omdbapi.com/)  The webpage is mobile responsive and you can also search a movie title.
 
 
 ![Untitled video - Made with Clipchamp](https://github.com/Ajinkyajoe/react-movie-app/assets/17193311/9b622a6c-b5d7-40c9-b898-c36874ccf415)
